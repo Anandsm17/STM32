@@ -1,0 +1,4 @@
+../Src/main.c:24:6:delay	16	static
+../Src/main.c:30:7:SPI2_GPIO_Init	24	static
+../Src/main.c:53:7:SPI2_Init	40	static
+../Src/main.c:68:5:main	24	static
