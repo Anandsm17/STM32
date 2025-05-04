@@ -29,13 +29,8 @@ void delay()
 
 int main(void)
 {
-	
+	//Write code here	
 }
 
-
-
-
-
-	}
 
 
